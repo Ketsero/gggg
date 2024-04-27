@@ -21,3 +21,15 @@
 </footer>
 </body>
 </html>
+a {
+    border: 5px solid rgb(77, 77, 77);
+    border-radius:50px;
+    color: rgb(0, 0, 0);
+    margin:50px;
+    padding: 10px;
+    background-color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+header{
+    padding: 20px;
+}
